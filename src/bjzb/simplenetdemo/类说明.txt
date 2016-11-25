@@ -1,0 +1,12 @@
+进行网络请求框架的学习
+
+请求： request 包中
+响应： response 包中
+请求队列： queue 包中
+线程池：    poolandstack 包中
+进行http实际网络执行者： poolandstack 包中
+将请求结果分发给主线程：  postmain包中
+
+请求 －> 请求队列 ->线程池 （进行实际网络执行）－> 回馈响应
+
+要类比运输大队其实更好
