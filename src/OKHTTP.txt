@@ -1,0 +1,21 @@
+先看Sockethttp 了解socket
+然后看 bjzb.simplenetdemo 了解类似volly的简单封装
+
+
+
+这是尽兴OKHttp的说明：
+累了   有心情了完成 okhttp与 自己的网络封装   
+http://blog.piasy.com/2016/07/11/Understand-OkHttp/
+
+
+
+还行 里面说了网络 socket在什么地方  各个Int作用
+
+http://lcodecorex.github.io/2016/08/01/Android网络请求实现及okhttp源码浅析/
+
+
+
+进行缓存DicLrucatch;
+
+看一会前端
+
